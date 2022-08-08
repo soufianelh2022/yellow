@@ -1,0 +1,57 @@
+{
+	"ADS":
+		   {
+		
+			"banner_type":"yandex",
+			"inter_type":"yandex",
+			"native_type":"yandex",
+			
+			
+			
+			"unity_id":"4292105",
+			
+		
+         "banner_yandex":"R-M-1723200-2",
+			"interstitial_yandex":"R-M-1723200-4",
+			"native_yandex":"R-M-1723200-3",
+			"rewarde_yandex":"R-M-1723200-5",
+
+			"banner_admob":"ca-app-pub-8183487897567629/7060590920",
+			"interstitial_admob":"ca-app-pub-8183487897567629/4410853189",
+			"native_admob":"ca-app-pub-8183487897567629/2984707986",
+			 "rewarde_admob":"ca-app-pub-8183487897567629/4330962137",  
+   
+			"banner_admob1":"ca-app-pub-8183487897567629/6013690458",
+			"interstitial_admob1":"ca-app-pub-8183487897567629/3701591578",
+			"native_admob1":"ca-app-pub-4459830934377915/5356974120",
+			 "rewarde_admob1":"ca-app-pub-8183487897567629/5822118766",
+   
+			"banner_admob2":"ca-app-pub-8183487897567629/6013690458",
+			"interstitial_admob2":"ca-app-pub-8183487897567629/3701591578",
+			"native_admob2":"ca-app-pub-8183487897567629/5098681143",
+			 "rewarde_admob2":"ca-app-pub-8183487897567629/5822118766",
+   
+		   "facebook_interstitial": "79",
+		   "facebook_banner": "61",
+		   "facebook_native": "D",
+		   "facebook_rewarde":"ca-app-pub-4567",
+			   
+		   "facebook_interstitial1": "IMG_16_9_APP_INSTALL#4677578285627060_4677588762292679",
+		   "facebook_banner1": "IMG_16_9_APP_INSTALL#4677578285627060_4677591608959061",
+		   "facebook_native1": "ID",
+			    "facebook_rewarde1":"ca-app-pub-4567",
+			   
+	           "facebook_interstitial2": "IMG_16_9_APP_INSTALL#4677578285627060_4677588762292679",
+		   "facebook_banner2": "IMG_16_9_APP_INSTALL#4677578285627060_4677591608959061",
+		   "facebook_native2": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		   "facebook_rewarde2":"ca-app-pub-4567",
+
+		   
+		   "appodeal_app_key" : "6183fe1ebbf93709010652b765ea2c232fe3ab59d8b5f27a",
+		   "ironsource_id" : ""
+		  
+		   
+  
+	  }
+   
+   }
